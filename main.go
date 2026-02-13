@@ -8,9 +8,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/slewis/gitboard/export"
-	"github.com/slewis/gitboard/github"
-	"github.com/slewis/gitboard/pinboard"
+	"github.com/monooso/gitboard/export"
+	"github.com/monooso/gitboard/github"
+	"github.com/monooso/gitboard/pinboard"
 )
 
 func main() {

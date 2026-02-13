@@ -4,8 +4,8 @@ import (
 	"context"
 	"strings"
 
-	"github.com/slewis/gitboard/github"
-	"github.com/slewis/gitboard/pinboard"
+	"github.com/monooso/gitboard/github"
+	"github.com/monooso/gitboard/pinboard"
 )
 
 // GitHubClient defines the interface for fetching starred repositories.

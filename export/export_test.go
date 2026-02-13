@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/slewis/gitboard/github"
-	"github.com/slewis/gitboard/pinboard"
+	"github.com/monooso/gitboard/github"
+	"github.com/monooso/gitboard/pinboard"
 )
 
 // Mock implementations for testing

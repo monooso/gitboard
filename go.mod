@@ -1,3 +1,3 @@
-module github.com/slewis/gitboard
+module github.com/monooso/gitboard
 
 go 1.25.5
